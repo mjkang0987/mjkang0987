@@ -1,2 +1,1 @@
-# mjkang0987
-mjkang0987
+> You always pass failure on the way to success 💫
