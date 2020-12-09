@@ -16,3 +16,7 @@ I'm Minjeong kang the web publisher.
 - Typescript
 - Node.js
 
+### HISTORY
+* [오늘 뭐입지 👔 - Recommend Clothes That Match The Temperature](https://mjkang0987.github.io/)
+  * [GIT](https://github.com/mjkang0987/mjkang0987.github.io)
+  * since 2020/11/24 ~ 
