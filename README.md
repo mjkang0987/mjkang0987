@@ -3,6 +3,8 @@
 ### Hi there 👋
 I'm Minjeong kang the web publisher.
 
+#### [📚Portfolio Link](https://mjkang0987.github.io/portfolio.pdf)
+
 ## TECH 🗂
 ![HTML](https://img.shields.io/badge/-HTML-0099ff?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-00ffff?style=for-the-badge)
