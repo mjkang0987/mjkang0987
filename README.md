@@ -24,4 +24,8 @@ I'm Minjeong kang the web publisher.
   * since 2020/11/24 ~ 
 * [Masonry infinite scroll 📜](https://mjkang0987.github.io/client/dist/views/masonry/masonry.html)
   * [masonry.js GIT](https://github.com/mjkang0987/mjkang0987.github.io/blob/main/client/src/scripts/masonry/masonry.js)
-  * since 2023/10/12 ~
+  * since 2023/10/12 - 2023/10/16
+* [Pixel Art](https://mjkang0987.github.io/client/dist/views/pixelArt/pixelArt.html)
+  * [Pixel Art PR](https://github.com/mjkang0987/mjkang0987.github.io/pull/28)
+  * [pixelArt.js](https://github.com/mjkang0987/mjkang0987.github.io/blob/main/client/src/scripts/pixelArt/pixelArt.js)
+  * since 2024/5/22 - 2024/5/24
